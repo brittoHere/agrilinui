@@ -1,0 +1,16 @@
+
+@media (max-width:1500px){
+    .img__width{
+        width:1087px !important; 
+    }
+}
+
+.footer__container{
+    text-align: center;
+    margin-top:25%;
+}
+
+.img__width{
+     width: 1087px;
+    height: 45px;
+}
